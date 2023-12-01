@@ -1,0 +1,10 @@
+﻿  gnu.cpp
+  main.cpp
+  selection.cpp
+  upload.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  gnu.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  graphproject.vcxproj -> C:\Users\Acer\Source\Repos\graphproject\x64\Release\graphproject.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,5 @@
+C:\Users\Acer\Source\Repos\graphproject\Debug\graphproject.vcxproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\graphproject\Debug\graphproject.selection.resources
+C:\Users\Acer\Source\Repos\graphproject\Debug\graphproject.upload.resources
+C:\Users\Acer\Source\Repos\graphproject\Debug\graphproject.vcxproj.GenerateResource.cache
+C:\Users\Acer\Source\Repos\graphproject\Debug\graphproject.exe
